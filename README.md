@@ -5,18 +5,6 @@
   </a>
 </div>
 
-<br />
-
-<!-- Animação do Banner -->
-<div align="center">
-  <img src="https://media1.tenor.com/m/J9WzCvxHZEsAAAAd/ishowspeed-ishowspeed-yeah-right.gif" alt="Header animation" width="50%">
-</div>
-
-<br />
-
-<p align="center">
-  
-</p>
 
 
 
